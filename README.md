@@ -50,7 +50,7 @@
 
 ## 四、使用样例
 
-在自己的项目目录下，git submodule add  https://gitlab.ictidei.cn/band-intel-center/Algorithm-platform/retinaface.git
+在自己的项目目录下，git submodule add  https://github.com/ahaqu01/retinaface.git
 
 便会在项目目录下下载到retinaface 相关代码
 
